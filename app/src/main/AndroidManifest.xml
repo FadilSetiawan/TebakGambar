@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.user.tebakgambar">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Splashscreen"
+            android:label="@string/app_name"
+            android:noHistory="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/Splashscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" />
+        <activity
+            android:name=".InduksiActivity"
+            android:label="@string/title_activity_induksi" />
+        <activity
+            android:name=".KaptenActivity"
+            android:label="@string/title_activity_kapten" />
+        <activity
+            android:name=".AkalBulusActivity"
+            android:label="@string/title_activity_akal_bulus" />
+        <activity
+            android:name=".AlaskakiActivity"
+            android:label="@string/title_activity_alaskaki" />
+        <activity
+            android:name=".AngkatLautActivity"
+            android:label="@string/title_activity_angkat_laut" />
+        <activity
+            android:name=".BalingPesawatActivity"
+            android:label="@string/title_activity_baling_pesawat" />
+        <activity
+            android:name=".CakarKucingActivity"
+            android:label="@string/title_activity_cakar_kucing" />
+        <activity
+            android:name=".CumaSinisActivity"
+            android:label="@string/title_activity_cuma_sinis" />
+        <activity
+            android:name=".AnjingTetanggaActivity"
+            android:label="@string/title_activity_anjing_tetangga" />
+        <activity
+            android:name=".JawabanBenarActivity"
+            android:label="@string/title_activity_jawaban_benar" />
+        <activity
+            android:name=".CaraMainActivity"
+            android:label="@string/title_activity_cara_main" />
+        <activity
+            android:name=".AboutActivity"
+            android:label="@string/title_activity_about" />
+        <activity android:name=".Slide1Activity"
+            android:theme="@style/viewpager"/>
+        <activity android:name=".Slide2Activity"
+            android:theme="@style/viewpager"/>
+        <activity android:name=".Slide3Activity"
+            android:theme="@style/viewpager"/>
+        <activity android:name=".ViewPagerActivity"
+            android:theme="@style/viewpager"></activity>
+    </application>
+
+</manifest>

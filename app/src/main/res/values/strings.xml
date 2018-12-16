@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Game Tebak Gambar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_induksi">Gambar</string>
+    <string name="title_activity_kapten">Gambar</string>
+    <string name="title_activity_akal_bulus">Gambar</string>
+    <string name="title_activity_alaskaki">Gambar</string>
+    <string name="title_activity_angkat_laut">Gambar</string>
+    <string name="title_activity_baling_pesawat">Gambar</string>
+    <string name="title_activity_cakar_kucing">Gambar</string>
+    <string name="title_activity_cuma_sinis">Gambar</string>
+    <string name="title_activity_anjing_tetangga">Gambar</string>
+    <string name="title_activity_jawaban_benar">Benar Semua</string>
+    <string name="title_activity_cara_main">Game</string>
+    <string name="title_activity_about">Game</string>
+
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <!--welcome activity -->
+    <string name="slide_1_title">Fadil Gameshack</string>
+    <string name="slide_1_desc">Game ini merupakan game tebak gambar sederhana</string>
+
+    <string name="slide_2_title">Cara Main</string>
+    <string name="slide_2_desc">Cara Main Game ini hanya menggunaka imajinasi untuk menjawab gambar yang di ampilkan</string>
+
+    <string name="slide_3_title">Facebook</string>
+    <string name="slide_3_desc">Facebook adalah sosial media.... .... .... </string>
+
+    <string name="slide_4_title">Cara Main </string>
+    <string name="slide_4_desc">Gamen ini tidak banyak memiliki level seperti game tebak gambar yang sudah ada, Game ini memiliki tombol bantuan yang merupakan jawaban dari tebak gamabar</string>
+</resources>
